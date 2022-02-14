@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-606-introduction-to-stagecraft-spring-2009/7367cef9ed8628c6e10bdecd82973504_MIT21M_606s09_sw04_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_sw04_final.pdf
+type: OCWFile
 uid: 7367cef9-ed86-28c6-e10b-decd82973504
 ---

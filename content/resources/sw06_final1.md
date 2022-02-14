@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: sw06_final1.jpg
+type: OCWImage
 uid: b0d1e860-829a-0c32-8afb-e0227d9756f5
 ---
