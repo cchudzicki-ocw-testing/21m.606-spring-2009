@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-606-introduction-to-stagecraft-spring-2009/9d90ae9e547e695c9e4a35b5738ea2dc_MIT21M_606s09_study02_diagrams.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

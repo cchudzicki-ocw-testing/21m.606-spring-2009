@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_mitheatreseal_21m606.jpg
 uid: f787b9bf-643f-41b6-13e1-1a33ca2ddd12
