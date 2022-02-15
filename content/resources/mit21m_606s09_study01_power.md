@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_study01_power.pdf
-type: OCWFile
 uid: c33d6e75-b851-ac94-eb93-dd3cbcc47bbf
 ---

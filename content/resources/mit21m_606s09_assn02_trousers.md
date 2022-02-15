@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_assn02_trousers.pdf
-type: OCWFile
 uid: 20668dad-d84d-73f3-e469-70bd479e8634
 ---

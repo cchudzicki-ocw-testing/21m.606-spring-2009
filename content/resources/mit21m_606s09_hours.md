@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_hours.pdf
-type: OCWFile
 uid: f99ccd1f-a391-fa1f-7365-7010d8b21d73
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_study02_diagrams.pdf
-type: OCWFile
 uid: 9d90ae9e-547e-695c-9e4a-35b5738ea2dc
 ---

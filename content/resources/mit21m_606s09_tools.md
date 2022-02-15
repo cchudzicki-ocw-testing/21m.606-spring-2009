@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_tools.pdf
-type: OCWFile
 uid: 01165389-f36f-9755-dd1e-c0dd641cab4b
 ---

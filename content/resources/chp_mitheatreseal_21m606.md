@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: chp_mitheatreseal_21m606.jpg
-type: OCWImage
 uid: f787b9bf-643f-41b6-13e1-1a33ca2ddd12
 ---

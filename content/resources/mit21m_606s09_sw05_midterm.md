@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_606s09_sw05_midterm.pdf
-type: OCWFile
 uid: f9481ad3-b300-4a53-9276-ef0cdbee268a
 ---
