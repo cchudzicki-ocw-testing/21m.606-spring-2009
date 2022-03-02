@@ -9,7 +9,7 @@ uid: 32a8c409-cee9-46e9-b050-b45fe73933f7
 Stage Management
 ----------------
 
-Hernandez, Teresa, and Mike Katz. _Stage Managing Co-Curricular Theater at MIT_. Cambridge, MA: MIT Theater, 2006. ({{< resource_link 5a050f6d-129f-3a2e-7976-520995a6b7e2 "PDF - 2.5MB" >}})
+Hernandez, Teresa, and Mike Katz. _Stage Managing Co-Curricular Theater at MIT_. Cambridge, MA: MIT Theater, 2006. ({{% resource_link 5a050f6d-129f-3a2e-7976-520995a6b7e2 "PDF - 2.5MB" %}})
 
 Sound
 -----
@@ -23,5 +23,5 @@ Lighting
 
 Sections 6.04-6.07 in Williams, Bill. "[Lighting Mechanics](http://billwilliams.ca/resources/sld/sld-600.htm)." Chapter 6 in _Stage Lighting Design 101_. Winnipeg, Canada: Bill Williams and Associates, 2007.
 
-Lighting Power (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link c33d6e75-b851-ac94-eb93-dd3cbcc47bbf "PDF" >}})  
-Light Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9d90ae9e-547e-695c-9e4a-35b5738ea2dc "PDF" >}})
+Lighting Power (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c33d6e75-b851-ac94-eb93-dd3cbcc47bbf "PDF" %}})  
+Light Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9d90ae9e-547e-695c-9e4a-35b5738ea2dc "PDF" %}})
