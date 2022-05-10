@@ -6,6 +6,10 @@ uid: dda3819b-42f5-46c9-8091-bdfca56e8d88
 ---
 Hello can I still make tables?
 
+{{< resource uuid="f787b9bf-643f-41b6-13e1-1a33ca2ddd12" >}}
+
+ 
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 cats
 {{< thclose >}}{{< thopen >}}
