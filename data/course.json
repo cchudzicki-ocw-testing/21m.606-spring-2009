@@ -36,7 +36,9 @@
     "content": "803afd56-7d8e-0791-9504-027f62dd987f",
     "website": "21m-606-introduction-to-stagecraft-spring-2009"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
   "site_uid": "704b63ef-5679-4dbd-ba36-790d2a9c0278",
   "title": "Course Metadata"
 }
