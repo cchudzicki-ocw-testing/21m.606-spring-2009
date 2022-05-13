@@ -6,7 +6,41 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4
 ---
-## \>
+cats
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+\>
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+\>
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Course Meeting Times
 
@@ -62,10 +96,10 @@ Midterm paper/presentation
 
 Class work (detailed below):
 
-\\> Quizzes - 20%    
-\\> Pants - 5%    
-\\> Widget/tools - 5%    
-\\> Paint project - 5%    
+\\> Quizzes - 20%     
+\\> Pants - 5%     
+\\> Widget/tools - 5%     
+\\> Paint project - 5%     
 \\> Participation - 5%
 
 {{< tdclose >}}{{< tdopen >}}
