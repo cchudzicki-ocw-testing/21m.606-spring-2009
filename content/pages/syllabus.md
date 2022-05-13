@@ -17,7 +17,7 @@ cats
 {{< thclose >}}{{< thopen >}}
  
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-\>
+\\>
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -25,7 +25,10 @@ cats
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-\>
+
+- a
+- b
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -96,10 +99,10 @@ Midterm paper/presentation
 
 Class work (detailed below):
 
-\\> Quizzes - 20%     
-\\> Pants - 5%     
-\\> Widget/tools - 5%     
-\\> Paint project - 5%     
+\\> Quizzes - 20%      
+\\> Pants - 5%      
+\\> Widget/tools - 5%      
+\\> Paint project - 5%      
 \\> Participation - 5%
 
 {{< tdclose >}}{{< tdopen >}}
