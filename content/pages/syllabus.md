@@ -26,8 +26,10 @@ cats
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-- a
+- a **cats**
 - b \<
+
+ 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -99,10 +101,10 @@ Midterm paper/presentation
 
 Class work (detailed below):
 
-\\> Quizzes - 20%       
-\\> Pants - 5%       
-\\> Widget/tools - 5%       
-\\> Paint project - 5%       
+\\> Quizzes - 20%        
+\\> Pants - 5%        
+\\> Widget/tools - 5%        
+\\> Paint project - 5%        
 \\> Participation - 5%
 
 {{< tdclose >}}{{< tdopen >}}
