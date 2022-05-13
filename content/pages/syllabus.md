@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4
 ---
-## {{% resource_link "32a8c409-cee9-46e9-b050-b45fe73933f7" "Study {{% Materials" %}}
+## \>
 
 ## Course Meeting Times
 
@@ -62,11 +62,11 @@ Midterm paper/presentation
 
 Class work (detailed below):
 
-\> Quizzes - 20%   
-\> Pants - 5%   
-\> Widget/tools - 5%   
-\> Paint project - 5%   
-\> Participation - 5%
+\\> Quizzes - 20%    
+\\> Pants - 5%    
+\\> Widget/tools - 5%    
+\\> Paint project - 5%    
+\\> Participation - 5%
 
 {{< tdclose >}}{{< tdopen >}}
 40%
