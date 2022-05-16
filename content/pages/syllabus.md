@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4
 ---
-cats {{% resource_link "2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4" "Syl\"la{{%bus" %}} and {{% resource_link "01165389-f36f-9755-dd1e-c0dd641cab4b" "MIT21M_606s09_tools.pdf" %}}
+cats {{% resource_link "2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4" "Syl\"la{{%bus" %}} and {{% resource_link "01165389-f36f-9755-dd1e-c0dd641cab4b" "MIT21M_606s0%}}9_tools.pdf" %}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
  
@@ -28,6 +28,8 @@ cats {{% resource_link "2f93e47d-c48d-b79e-d2ce-8b54ac18e8f4" "Syl\"la{{%bus" %}
 
 - a **cats**
 - b \<
+
+ 
 
  
 
@@ -101,10 +103,10 @@ Midterm paper/presentation
 
 Class work (detailed below):
 
-\\> Quizzes - 20%          
-\\> Pants - 5%          
-\\> Widget/tools - 5%          
-\\> Paint project - 5%          
+\\> Quizzes - 20%           
+\\> Pants - 5%           
+\\> Widget/tools - 5%           
+\\> Paint project - 5%           
 \\> Participation - 5%
 
 {{< tdclose >}}{{< tdopen >}}
