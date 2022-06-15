@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This assignments section provides information on course exercises, production
+  work, lab hours, midterm presentations, the final project, and examples of student
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
