@@ -6,6 +6,7 @@ file: /courses/21m-606-introduction-to-stagecraft-spring-2009/f99ccd1fa391fa1f73
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
